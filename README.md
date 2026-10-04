@@ -37,4 +37,4 @@ Engineering student at ESIEA focused on automating networks and securing infrast
 
 #### 📫 Contact
 
-[LinkedIn](#) · [Portfolio](https://github.com/gokunguru/portfolio)
+[LinkedIn](https://www.linkedin.com/in/kamil-mandi-b86aa3415/) · [Portfolio](https://github.com/gokunguru/portfolio)
