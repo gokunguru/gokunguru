@@ -4,6 +4,8 @@
 
 Engineering student at ESIEA focused on automating networks and securing infrastructure: turning device configs, Linux hosts and cloud environments into code that can be audited, tested and validated in CI.
 
+🌐 **Portfolio:** [gokunguru.github.io/portfolio](https://gokunguru.github.io/portfolio/)
+
 ---
 
 #### 🛠️ Stack
@@ -37,4 +39,4 @@ Engineering student at ESIEA focused on automating networks and securing infrast
 
 #### 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/kamil-mandi-b86aa3415/) · [Portfolio](https://github.com/gokunguru/portfolio)
+[LinkedIn](https://www.linkedin.com/in/kamil-mandi-b86aa3415/) · [Portfolio](https://gokunguru.github.io/portfolio/)
